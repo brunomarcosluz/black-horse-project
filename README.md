@@ -9,8 +9,8 @@
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio/blob/master/LICENSE">
 
-   <img alt="GitHub license" src="https://img.shields.io/github/license/brunomarcosluz/Black-Horse-Stdio?color=019733&style=for-the-badge">
-   
+   <img align="center" alt="GitHub license" src="https://img.shields.io/github/license/brunomarcosluz/Black-Horse-Stdio?color=019733&style=for-the-badge">
+
 </a>
 
 
