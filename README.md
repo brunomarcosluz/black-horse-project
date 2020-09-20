@@ -9,5 +9,5 @@
 </h4>
 
 <h4 align="center">
-<img alt="Gif Black Horse" title="#RideInTheBlackHorse" src="https://media.giphy.com/media/h0dk1VhNr9R4I/giphy.gif">
+<img alt="Gif Black Horse" title="#RideInTheBlackHorse" src="https://i.imgur.com/1S1EZQB.gif">
 </h4>
