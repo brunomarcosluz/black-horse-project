@@ -3,9 +3,15 @@
 </p>
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio/blob/master/README.md">
-<img align="center" src="https://img.shields.io/static/v1?label=Brazilian&message=Company&color=019733&style=for-the-badge&logo=GHOST"></a>
 
-<a href="https://github.com/brunomarcosluz/Black-Horse-Stdio/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/brunomarcosluz/Black-Horse-Stdio?color=019733&style=for-the-badge"></a>
+   <img align="center" src="https://img.shields.io/static/v1?label=Brazilian&message=Company&color=019733&style=for-the-badge&logo=GHOST">
+</a>
+
+<a href="https://github.com/brunomarcosluz/Black-Horse-Stdio/blob/master/LICENSE">
+
+   <img alt="GitHub license" src="https://img.shields.io/github/license/brunomarcosluz/Black-Horse-Stdio?color=019733&style=for-the-badge">
+   
+</a>
 
 
 <h2 align="center"> <strong>Software Development Company, ride in the Black Horse!</strong> :racehorse: </h2>
