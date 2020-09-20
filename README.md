@@ -4,7 +4,7 @@
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio/blob/master/README.md">
 
-   <img align="center" src="https://img.shields.io/static/v1?label=Brazilian&message=Company&color=019733&style=flat-square&logo=GHOST">
+   <img align="center" src="https://img.shields.io/static/v1?label=Brazilian&message=Company&color=019733&style=flat-square">
 </a>
 
 <a href="https://github.com/brunomarcosluz/Black-Horse-Stdio/blob/master/LICENSE">
