@@ -3,7 +3,8 @@
 </p>
 
 <h2 align="center"> <strong>Software Development Company, ride in the Black Horse!</strong> :racehorse: </h2>
-<img align="center" src="img.shields.io/static/v1?label=Brazilian&message=Company&color=019733&style=for-the-badge&logo=GHOST">
+
+<img align="center" src="https://img.shields.io/static/v1?label=Brazilian&message=Company&color=019733&style=for-the-badge&logo=https://cdn.worldvectorlogo.com/logos/bandeirado-brasil.svg">
 
 
 <h4 align="center">
